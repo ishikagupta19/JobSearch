@@ -1,3 +1,15 @@
+1. Download the code ZIP file.
+2. Open the code in respective software.
+3. Run the command
+   ### `npm install`
+4. This will install the packages.
+5. Run the command
+   ### `npm run`
+6. You will be redirected to website on your localhost server.
+
+# About Website
+This is a JOB SEARCH website, it consists of three web pages built in REACT. User will be redirected to homepage, that has two buttons Login/Register and Job Search. When click on `Login/Register`, it will redirect to register page, after entering the required details, user will now redirected to login page, now user have to enter its credentials, after successfully logging in, now user will redirected to job Search page in which the user can see the job requiremens.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
